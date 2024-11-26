@@ -9,10 +9,10 @@ This respository showcases the story (dashboard) I have created in SAC using the
 
 The story provides a snapshot of all important KPI's along with YoY growth.  
 
-   1- User can select the year or any measure (Sales|Profit|Orders)
+    1- User can select the year or any measure (Sales|Profit|Orders)
    
-   2- Each view (graphs) acts a filter and allows you to drilldown for better insights
+    2- Each view (graphs) acts a filter and allows you to drilldown for better insights
    
-   3- A section has been provided to give your insgihts on the data
+    3- A section has been provided to give your insgihts on the data
    
-   4- The story enables you to run your forecast/QBR calls without any need for slide deck
+    4- The story enables you to run your forecast/QBR calls without any need for slide deck
